@@ -1,0 +1,7 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0; padding:0; list-style-type:none; text-decoration:none;}
+html{width: 100%;background:rgba(255,255,255,1);}
+body{font:normal 200% Arial,Helvetica,sans-serif;color: rgba(0,0,0,1.00);text-align: center;}
+a:hover{text-decoration:underline;}
+P{margin-top: 10%;}
