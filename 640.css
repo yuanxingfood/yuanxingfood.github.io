@@ -2,7 +2,7 @@
 html{width: 100%;font-size: 62.5%;font-family:"Helvetica Neue", Helvetica, "Microsoft Yahei", Arial, sans-serif; background: rgba(1,111,65,1);}
 body{width:100%;text-align: center;background: url(images/bg.jpg); margin-top: 1%;}
 .guide{width: 100%; margin: 3% auto; display: inline-block;}
-.logo img{width: 60%; margin:2% 20%}
+.logo img{width: 80%;max-width: 377px; margin:2% 10%;}
 .bar{width: 35rem;margin: 0 auto;}
 .bar li{float: left;margin: 2rem auto auto 1rem;font-size:3rem;width: 15rem; height: 3.5rem; border: 0.2rem solid rgba(1,111,65,1);padding: 0.5rem;}
 .bar a:link{color:rgba(1,111,65,1);}
