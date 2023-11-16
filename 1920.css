@@ -40,9 +40,9 @@ body{text-align: center;background: url(images/bg.jpg); margin-top: 0.4rem;}
 .end a:visited{color: rgba(255,255,255,1);}
 .end2{width: 49.9rem; float: left;text-align: right;border-left: rgba(255,255,255,0.5) 0.1rem solid;}
 .t2{margin-top: 5rem;text-align: center;display: inline-block;}
-.ct{width: 100rem;display: inline-block;padding: 3rem; margin: 3rem 0;background: rgba(255,255,255,0.8);text-align: center;border: 0.2rem solid;}
+.ct{width: 125rem;display: inline-block;padding: 3rem; margin: 3rem 0;background: rgba(255,255,255,0.8);text-align: center;border: 0.2rem solid;}
 .ct p{font-size:2.5rem;}
 .ct span{font-size:3rem;font-weight: bold;}
 .ct li{color: rgba(0,154,90,1.00);font-size:2.2rem;font-weight: bold;text-decoration: underline;}
-.ct img{width: 100rem;margin-top: 3rem;}
+.ct img{width: 100%;margin-top: 3rem;}
 .pic2 img{margin-top: 2rem;display: inline-block;border:rgba(0,0,0,1) 0.1rem solid; }
